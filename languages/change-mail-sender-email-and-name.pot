@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Change Mail Sender Email and Name 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wpmet.com/\n"
+"POT-Creation-Date: 2024-10-06 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/mail-sender-modifier.php:32
+msgid "Mail Sender Modifier"
+msgstr ""
+
+#: includes/mail-sender-modifier.php:48
+msgid "Mail Sender Name"
+msgstr ""
+
+#: includes/mail-sender-modifier.php:56
+msgid "Mail Sender Email"
+msgstr ""
+
+#: includes/mail-sender-modifier.php:72
+msgid "You may change your WordPress default mail sender name and email."
+msgstr ""
+
+#: includes/mail-sender-modifier.php:92
+msgid "Sender Modifier Mail Name"
+msgstr ""
+
+#: includes/mail-sender-modifier.php:101
+msgid "no_reply@yourdomain.com"
+msgstr ""
